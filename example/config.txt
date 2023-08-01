@@ -1,0 +1,2 @@
+Prefix plugins/ValidateTG/example/
+Plugin ValidateTG inputfile parameters.txt outputfile outBinomial.csv
